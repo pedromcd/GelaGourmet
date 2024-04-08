@@ -11,8 +11,8 @@ body{
     font-family: "Montserrat", sans-serif;
     width: 100vw;
 }
- 
- 
+
+
 header{
     height: calc(100vh - 150px);
     background: url("assets/img/sorvete.png") no-repeat center/cover;
